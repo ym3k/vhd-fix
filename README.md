@@ -1,7 +1,7 @@
 vhd-fix
 =======
 
-convert to/from Xen VHD
+convert to/from XenServer VHD
 
   Convert from Microsoft VHD to read xen vhd-util (fix CHS geometry).
   Convert from Xen blktap2 batmap-added VHD to Microsoft VHD format.
