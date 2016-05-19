@@ -12,4 +12,5 @@ Usage:
   
   Original files will be overwriten by this script  
   for saving disk space.
+  
   Back-up the original file by yourself, if you want.
